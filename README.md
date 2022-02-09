@@ -35,9 +35,9 @@ In this project you'll take this crypto currency tracker app and build two custo
 * [x] Use the code from GP to build the the hook.
 
 #### Compose useLocalStorage around useDarkMode
-* [ ] Import useLocalStorage into the useDarkMode hook.
-* [ ] Confirm that when clicking the dark mode switch on the ui that the correct value is saved to localStorage.
-* [ ] Confirm that dark mode persists when reloading the app.
+* [x] Import useLocalStorage into the useDarkMode hook.
+* [x] Confirm that when clicking the dark mode switch on the ui that the correct value is saved to localStorage.
+* [x] Confirm that dark mode persists when reloading the app.
 
 
 
